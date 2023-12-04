@@ -1,0 +1,27 @@
+body {
+  font-family: 'Arial', sans-serif;
+  display: flex;
+  justify-content: center ;
+  align-items:  top center;
+  height: 100 px;
+  margin: 0;
+  background-color:darkgrey;
+}
+
+.app {
+  text-align:  center;
+}
+
+label {
+  margin-right: 10px;
+}
+
+button {
+  margin-top: 10px;
+  padding: 5px 10px;
+  cursor:pointer;
+}
+
+.result {
+  margin-top: 20px;
+}
